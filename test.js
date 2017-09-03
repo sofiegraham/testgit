@@ -1,1 +1,5 @@
-Fake thing.
+class Wat {
+	constructor(poop) {
+		this.poop = poop;
+	}
+}
