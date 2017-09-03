@@ -3,3 +3,5 @@ class Wat {
 		this.poop = poop;
 	}
 }
+
+module.exports = Wat;
